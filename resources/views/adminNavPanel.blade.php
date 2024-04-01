@@ -59,19 +59,19 @@
             </li>
             <li class="">
                 <a href="" >
-                <i class='bx bx-cart icon'></i>
+                <i class='bx bx-cheese icon'></i>
                     <span class="text nav-text">Ingredients</span>
                 </a>
             </li>
             <li class="">
                 <a href="" >
-                <i class='bx bx-cart icon'></i>
+                <i class='bx bx-calendar icon'></i>
                     <span class="text nav-text">Available Schedule</span>
                 </a>
             </li>
             <li class="">
                 <a href="" >
-                <i class='bx bx-cart icon'></i>
+                <i class='bx bx-comment-add icon'></i>
                     <span class="text nav-text">Order Reviews</span>
                 </a>
             </li>
